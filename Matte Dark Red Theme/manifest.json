@@ -1,32 +1,58 @@
 {
   "manifest_version": 2,
-  "version": "1.0",
+  "version": "2.2",
   "name": "Matte Dark Red Theme",
   "theme": {
     "colors": {
-      "toolbar": "rgb(33, 33, 33)",
-      "toolbar_text": "rgb(200, 200, 200)",
       "frame": "rgb(0, 0, 0)",
-      "tab_background_text": "rgb(200, 200, 200)",
-      "toolbar_field": "rgb(15, 15, 15)",
-      "toolbar_field_text": "rgb(255, 255, 255)",
-      "tab_line": "rgb(255, 0, 4)",
-      "popup": "rgb(0, 0, 0)",
-      "popup_text": "rgb(255, 255, 255)",
-      "button_background_active": "rgb(109, 110, 111)",
-      "button_background_hover": "rgb(8, 8, 8)",
       "frame_inactive": "rgb(0, 0, 0)",
-      "icons": "rgb(219, 0, 0)",
-      "ntp_background": "rgb(0, 0, 0)",
-      "popup_border": "rgb(255, 0, 0)",
-      "tab_background_separator": "rgb(255, 255, 255)",
-      "tab_loading": "rgb(225, 0, 6)",
-      "tab_selected": "rgb(123, 9, 9)",
+
       "tab_text": "rgb(255, 255, 255)",
-      "toolbar_bottom_separator": "rgb(68, 68, 68)",
-      "toolbar_field_separator": "rgb(0, 0, 0)",
-      "toolbar_top_separator": "rgb(34, 34, 34)",
-      "toolbar_vertical_separator": "rgb(23, 23, 23)"
+      "tab_background_text": "rgb(200, 200, 200)",
+      "tab_background_separator": "rgb(200, 200, 200)",
+
+      "tab_line": "rgb(227, 0, 0)",
+      "tab_loading": "rgb(227, 0, 0)",
+      "icons_attention": "rgb(227, 0, 0)",
+      "tab_selected": "rgb(120, 7, 7)",
+
+
+      "toolbar": "rgb(35, 35, 35)",
+      "toolbar_top_separator": "rgb(35, 35, 35)",
+      "toolbar_bottom_separator": "rgb(35, 35, 35)",
+      "toolbar_vertical_separator": "rgb(200, 200, 200)",
+
+      "toolbar_field": "rgb(0, 0, 0)",
+      "toolbar_field_text": "rgb(200, 200, 200)",
+      "toolbar_field_border": "rgb(20, 20, 20)",
+      "toolbar_field_separator": "rgb(20, 20, 20)",
+      "toolbar_field_highlight_text": "rgb(255, 255, 255)",
+      "toolbar_field_highlight": "rgb(120, 7, 7)",
+      "toolbar_field_text_focus": "rgb(255, 255, 255)",
+      "toolbar_text": "rgb(255, 255, 255)",
+
+      "toolbar_field_focus": "rgb(20, 20, 20)",
+      "toolbar_field_border_focus": "rgb(227, 0, 0)",
+
+      "button_background_hover": "rgb(200, 200, 200)",
+      "button_background_active": "rgb(255, 255, 255)",
+      "icons": "rgb(227, 0, 0)",
+      "bookmark_text": "rgb(200, 200, 200)",
+
+      "popup": "rgb(20, 20, 20)",
+      "popup_text": "rgb(200, 200, 200)",
+      "popup_border": "rgb(250, 0, 0)",
+      "popup_highlight": "rgb(35, 35, 35)",
+      "popup_highlight_text": "rgb(255, 255, 255)",
+
+      "ntp_background": "rgb(20, 20, 20)",
+      "ntp_text": "rgb(200, 200, 200)",
+
+      "sidebar": "rgb(35, 35, 35)",
+      "sidebar_text": "rgb(200, 200, 200)",
+      "sidebar_border": "rgb(20, 20, 20)",
+      "sidebar_highlight": "rgb(120, 7, 7)",
+      "sidebar_highlight_text": "rgb(200, 200, 200)"
     }
   }
 }
