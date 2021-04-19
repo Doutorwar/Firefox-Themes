@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "2.2",
+  "version": "2.3",
   "name": "Matte Dark Red Theme",
   "theme": {
     "colors": {
@@ -34,8 +34,8 @@
       "toolbar_field_focus": "rgb(20, 20, 20)",
       "toolbar_field_border_focus": "rgb(227, 0, 0)",
 
-      "button_background_hover": "rgb(200, 200, 200)",
-      "button_background_active": "rgb(255, 255, 255)",
+      "button_background_hover": "rgb(100, 7, 7)",
+      "button_background_active": "rgb(160, 7, 7)",
       "icons": "rgb(227, 0, 0)",
       "bookmark_text": "rgb(200, 200, 200)",
 
@@ -50,7 +50,7 @@
 
       "sidebar": "rgb(35, 35, 35)",
       "sidebar_text": "rgb(200, 200, 200)",
-      "sidebar_border": "rgb(20, 20, 20)",
+      "sidebar_border": "rgb(250, 0, 0)",
       "sidebar_highlight": "rgb(120, 7, 7)",
       "sidebar_highlight_text": "rgb(200, 200, 200)"
     }
